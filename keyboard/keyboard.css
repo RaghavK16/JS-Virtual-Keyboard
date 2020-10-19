@@ -14,3 +14,7 @@
 .keyboard--hidden{
     bottom: -100%;
 }
+
+.keyboard__keys{
+    text-align: center;
+}
