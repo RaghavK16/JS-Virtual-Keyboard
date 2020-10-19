@@ -1,0 +1,16 @@
+.keyboard{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 5px 0;
+    background: rgb(16, 193, 199);
+    box-shadow: 0 0 50px rgba(129, 17, 17, 0.719);
+    user-select: none;
+    transition: bottom 0.4s;
+    height: 100px;
+}
+
+.keyboard--hidden{
+    bottom: -100%;
+}
