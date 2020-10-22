@@ -26,4 +26,30 @@
     margin: 3px;
     border-radius: 4px;
     border: none;
+    background: rgba(255, 255, 255, 0.2);
+    color: rgb(255, 255, 255);
+    font-size: 1.05rem;
+    outline: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+}
+
+.keyboard__key:active{
+    background: rgb(50, 19, 190);
+}
+
+.keyboard__key--wide{
+    width: 12%;
+    max-width: 150px;
+}
+
+.keyboard__key--extra-wide{
+    width: 36%;
+    max-width: 500px;
 }
