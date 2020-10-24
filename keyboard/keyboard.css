@@ -4,15 +4,15 @@
     bottom: 0;
     width: 100%;
     padding: 5px 0;
-    background: rgb(16, 193, 199);
+    background: rgb(68, 84, 85);
     box-shadow: 0 0 50px rgba(129, 17, 17, 0.719);
     user-select: none;
     transition: bottom 0.4s;
-    height: 100px;
+    height: 300px;
 }
 
 .keyboard--hidden{
-    bottom: -100%;
+    bottom: -300%;
 }
 
 .keyboard__keys{
@@ -41,7 +41,7 @@
 }
 
 .keyboard__key:active{
-    background: rgb(50, 19, 190);
+    background: rgb(14, 138, 155);
 }
 
 .keyboard__key--wide{
@@ -67,9 +67,9 @@
 }
 
 .keyboard__key--active::after{
-    background: rgb(14, 179, 85);
+    background: rgb(255, 103, 32);
 }
 
 .keyboard__key--dark{
-    background: rgb(119, 119, 119);
+    background: rgb(20, 19, 19);
 }
