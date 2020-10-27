@@ -1,5 +1,9 @@
 # JS-Virtual-Keyboard
 
-* A minimalistic and cool on-screen virtual keyboard.
+* A minimalistic and cool On-Screen virtual keyboard.
 
-* Uses Vanilla JS, HTML and CSS.
+* Built using Vanilla JS, HTML and CSS.
+
+* Easy to integrate into any website.
+
+* Fast and responsive.
