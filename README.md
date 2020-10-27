@@ -7,3 +7,5 @@
 * Easy to integrate into any website.
 
 * Fast and responsive.
+
+* Customization is very easy using CSS.
