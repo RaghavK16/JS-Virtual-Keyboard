@@ -9,3 +9,5 @@
 * Fast and responsive.
 
 * Customization is very easy using CSS.
+
+* When not of use, simply press the black "Done" Button to make the keyboard disappear.
