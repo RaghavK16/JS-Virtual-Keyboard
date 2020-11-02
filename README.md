@@ -4,6 +4,10 @@
 
 * Built using Vanilla JS, HTML and CSS.
 
+<div align="center">
+    <img src="https://github.com/raghavk16/JS-Virtual-Keyboard/blob/main/keyboard/keyboard_img.png" alt="Keyboard Screen SS" >
+</div>
+
 * Easy to integrate into any website.
 
 * Fast and responsive.
