@@ -2,7 +2,7 @@
 
 * A minimalistic and cool On-Screen virtual keyboard.
 
-* Built using Vanilla JS, HTML and CSS.
+* Built using Vanilla JS, HTML and CSS (No JS libraries required).
 
 <div align="center">
     <img src="https://github.com/raghavk16/JS-Virtual-Keyboard/blob/main/keyboard/keyboard_img.png" alt="Keyboard Screen SS" >
